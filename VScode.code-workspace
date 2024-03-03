@@ -3,12 +3,5 @@
     {
       "path": "."
     }
-  ],
-  "settings": {
-    "files.associations": {
-      "iostream": "cpp",
-      "queue": "cpp",
-      "cstdio": "cpp"
-    }
-  }
+  ]
 }
